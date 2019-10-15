@@ -33,6 +33,7 @@ Nummpy http://www.numpy.org/ - is the fundamental package for scientific computi
 **Importing packages**
 
 The above packages can be imported into Python. Use Import function in iPython as follows:
+
     'import ipython'
     'import numpy as np'
 
