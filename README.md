@@ -28,7 +28,9 @@ Anaconda https://www.anaconda.com/distribution/ - is the easiest way to perfrom 
 
 iPython https://ipython.org/ - it an interactive command-line terminal for Python.
 
-Nummpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
+Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
+
+Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text.
 
 **Importing packages**
 
@@ -36,5 +38,16 @@ The above packages can be imported into Python. Use Import function in iPython a
 
     'import ipython'
     'import numpy as np'
+    'import jupyter notebook'
+    
+https://ipython.org/#
+
+**Background**
+
+
+**References** 
+
+Jupyter Documentation https://jupyter.org/documentation
+
 
 
