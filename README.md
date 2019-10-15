@@ -13,7 +13,23 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 3. Explain the use and purpose of at least five “Distributions” functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
-**Requirements**
-The following packages are required to complete the task
+**Getting started**
+Download and install Python and Anaconda
+All files associated with this project are available at 
 
+**Packages used in this project**
+The following packages were used to run statistical analysis and draw grpahs for this project.
 
+Python (https://www.python.org/downloads/)
+Anaconda https://www.anaconda.com/distribution/ - is the easiest way to perfrom Python data science machine learning on Linux, Windows and Mac OS.
+iPython https://ipython.org/ - it an interactive command-line terminal for Python.
+Nummpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
+
+Importing packages
+The above packages can be imported into Python. Use Import function in iPython as follows:
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+sns.set(style="white" , color_codes=True)
