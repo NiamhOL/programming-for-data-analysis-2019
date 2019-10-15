@@ -40,7 +40,6 @@ The above packages can be imported into Python. Use Import function in iPython a
     'import numpy as np'
     'import jupyter notebook'
 
-![alt text] (https://ipython.org/#)
 
 **Background**
 
@@ -48,6 +47,6 @@ The above packages can be imported into Python. Use Import function in iPython a
 **References** 
 
 Jupyter Documentation https://jupyter.org/documentation
-
+Numpy Documentation  https://numpy.org/doc/1.17/reference/random/index.html
 
 
