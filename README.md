@@ -43,16 +43,27 @@ The above packages can be imported into Python. Use Import function in iPython a
 
 **Background**
 
-"Numpy's random number routines produce pseudi rando, numbers using combinations of a *BitGenerator* to create sequences and a *Generator* to use those sequences to sanple from different statistical distributions. [1] 
+"NumPy's random number routines produce pseudo random numbers using combinations of a *BitGenerator* to create sequences and a *Generator* to use those sequences to sanple from different statistical distributions. [1] This random number generator was designed with the focus on modelling and simulation. A common task in data analysis is the creation of random samples. NumPy Random provides a way of creating random samples, which can then be used for data analysis. 
+
+NumPy functions operate on numbers and they are especially useful for data science, statistics and machine learning. Which often use very large dataset of numneric learning. An intrical part of machine learning and deep learning is data manipulation. NumPy provides an excellent toolkit to help "clean up" data for data manipulation.
+
+The core functionality of NumPy is its "ndarray", data structure. Which describes the collection of items of the same type. "Every item in an ndarray takes the same size block in the memory" [2] Ndarry's can be indexed to allow for analysisng and data manipulation. 
+
+This assignment will focus on using NumPy to generate random samples of a population to chek the validity of conclusions that are being drawn from the whole population. 
 
 **References** 
 [1] https://numpy.org/doc/1.17/reference/random/index.html
 
+[2] https://www.tutorialspoint.com/numpy/numpy_ndarray_object.htm
 
 **Biblography**
 
 Jupyter Documentation https://jupyter.org/documentation
 
 Numpy.random  https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
+
+https://www.python-course.eu/python_numpy_probability.php
+
+https://www.r-craft.org/r-news/how-to-use-numpy-random-choice/
 
 ## Author: Niamh O'Leary ##
