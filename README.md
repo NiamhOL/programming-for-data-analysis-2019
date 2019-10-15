@@ -29,9 +29,8 @@ iPython https://ipython.org/ - it an interactive command-line terminal for Pytho
 Nummpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
 
 **Importing packages**
+
 The above packages can be imported into Python. Use Import function in iPython as follows:
 
-'''import ipython
-import 
-import numpy as np'''
+
 
