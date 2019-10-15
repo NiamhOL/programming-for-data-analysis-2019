@@ -2,9 +2,9 @@
 ## Student: Niamh O'Leary
 ## ID: G00376339
 
-**Problem statement**
-The following assignment concerns the numpy.random package in Python  You are
-required to create a Jupyter notebook explaining the use of the package, including
+**Task**
+The following assignment concerns the numpy.random package in Python. This required 
+required the ceration of a Jupyter notebook to exaplain the use of the package, including
 detailed explanations of at least five of the distributions provided for in the package.
 
 There are four distinct tasks to be carried out in your Jupyter notebook.
