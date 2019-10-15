@@ -20,16 +20,18 @@ All files associated with this project are available at
 **Packages used in this project**
 The following packages were used to run statistical analysis and draw grpahs for this project.
 
-Python (https://www.python.org/downloads/)
+Python https://www.python.org/downloads/
+
 Anaconda https://www.anaconda.com/distribution/ - is the easiest way to perfrom Python data science machine learning on Linux, Windows and Mac OS.
+
 iPython https://ipython.org/ - it an interactive command-line terminal for Python.
+
 Nummpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
 
-Importing packages
+**Importing packages**
 The above packages can be imported into Python. Use Import function in iPython as follows:
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import seaborn as sns
-sns.set(style="white" , color_codes=True)
+'''import ipython
+import 
+import numpy as np'''
+
