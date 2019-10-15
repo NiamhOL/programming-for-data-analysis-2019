@@ -14,4 +14,6 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
 **Requirements**
+The following packages are required to complete the task
+
 
