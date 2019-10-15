@@ -42,11 +42,15 @@ The above packages can be imported into Python. Use Import function in iPython a
 
 
 **Background**
-
+"Numpy's random number routines produce pseudi rando, numbers using combinations of a *BitGenerator* to create sequences and a *Generator* to use those sequences to sanple from different statistical distributions. [1]
 
 **References** 
+[1] https://numpy.org/doc/1.17/reference/random/index.html
+
+
+**Biblography**
 
 Jupyter Documentation https://jupyter.org/documentation
-Numpy Documentation  https://numpy.org/doc/1.17/reference/random/index.html
+Numpy.random  https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
 
-
+## Author: Niamh O'Leary ##
