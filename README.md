@@ -39,8 +39,8 @@ The above packages can be imported into Python. Use Import function in iPython a
     'import ipython'
     'import numpy as np'
     'import jupyter notebook'
-    
-https://ipython.org/#
+
+![alt text] (https://ipython.org/#)
 
 **Background**
 
