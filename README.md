@@ -16,7 +16,7 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 **Getting started**
 
 Download and install Python and Anaconda
-All files associated with this project are available at 
+All files associated with this project are available at https://github.com/NiamhOL/programming-for-data-analysis-2019
 
 **Packages used in this project**
 
