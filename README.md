@@ -52,6 +52,7 @@ The core functionality of NumPy is its "ndarray", data structure. Which describe
 This assignment will focus on using NumPy to generate random samples of a population to chek the validity of conclusions that are being drawn from the whole population. 
 
 **References** 
+
 [1] https://numpy.org/doc/1.17/reference/random/index.html
 
 [2] https://www.tutorialspoint.com/numpy/numpy_ndarray_object.htm
