@@ -49,7 +49,9 @@ NumPy functions operate on numbers and they are especially useful for data scien
 
 The core functionality of NumPy is its "ndarray", data structure. Which describes the collection of items of the same type. "Every item in an ndarray takes the same size block in the memory" [2] Ndarry's can be indexed to allow for analysisng and data manipulation. 
 
-This assignment will focus on using NumPy to generate random samples of a population to chek the validity of conclusions that are being drawn from the whole population. 
+This assignment will focus on using NumPy to generate random samples of a population to check the validity of conclusions that are being drawn from the whole population. 
+
+
 
 **References** 
 
