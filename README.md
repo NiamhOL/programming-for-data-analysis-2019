@@ -46,15 +46,15 @@ The above packages can be imported into Python. Use Import function in iPython a
 
 "NumPy's random number routines produce pseudo random numbers using combinations of a *BitGenerator* to create sequences and a *Generator* to use those sequences to sanple from different statistical distributions. [1] This random number generator was designed with the focus on modelling and simulation. A common task in data analysis is the creation of random samples. NumPy Random provides a way of creating random samples, which can then be used for data analysis. 
 
-![image numpy](https://www.google.com/search?q=numpy&rlz=1C1CHBF_enIE785IE785&sxsrf=ACYBGNT116tBg0116C72IfhTrIeY7PC-Xw:1573315706733&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj94Mbewd3lAhXRUBUIHS_wAJ4Q_AUIEigB&biw=1368&bih=770&dpr=2#imgrc=N30oImgnZy4RVM)
-
 NumPy functions operate on numbers and they are especially useful for data science, statistics and machine learning. Which often use very large dataset of numneric learning. An intrical part of machine learning and deep learning is data manipulation. NumPy provides an excellent toolkit to help "clean up" data for data manipulation.
 
 The core functionality of NumPy is its "ndarray", data structure. Which describes the collection of items of the same type. "Every item in an ndarray takes the same size block in the memory" [2] Ndarry's can be indexed to allow for analysisng and data manipulation. 
 
 This assignment will focus on using NumPy to generate random samples of a population to check the validity of conclusions that are being drawn from the whole population. 
 
+**Juypter notebook**
 
+The Juypter notebook attached to this project contains the answers to the four tasks. 
 
 **References** 
 
